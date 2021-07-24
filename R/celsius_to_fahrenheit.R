@@ -9,6 +9,5 @@
 
 celsius_to_fahrenheit <- function(temp_C) {
   temp_F <- (temp_C *9/5) + 32
-  print(temp_F)
   return(temp_F)
 }
