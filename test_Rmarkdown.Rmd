@@ -2,7 +2,7 @@
 title: "Test_Rmarkdown"
 author: "Bina"
 date: "24/07/2021"
-output: github_document
+output: html_document
 ---
 
 ```{r}
